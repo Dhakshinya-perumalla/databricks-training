@@ -1,7 +1,6 @@
 # databricks-training
 
-
-##Project Title
+Project Title
 
   Data Engineering  
   
