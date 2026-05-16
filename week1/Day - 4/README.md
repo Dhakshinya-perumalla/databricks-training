@@ -1,5 +1,5 @@
-# Day 4 - SQL Fundamentals
-Overview Today I started my Databricks training journey by setting up the GitHub repository and practicing basic SQL concepts.
+# Day 4 - Overview 
+   Today I practiced sql queries on distinct, comparison operators and logical operators.
 
 
 
